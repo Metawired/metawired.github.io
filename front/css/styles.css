@@ -107,7 +107,7 @@ dt {
 }
 
 .navbar-inverse {
-  background-color:#4C4C60;
+  /**background-color:#4C4C60;*/
 }
 
 /* ======= Header ======= */
