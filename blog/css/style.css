@@ -27,7 +27,7 @@
 body {
   position: relative;
   padding-top: 40px;
-  background: #737496;
+  background: rgba(115, 116, 150, 0.2);
   background-repeat: repeat-x;
   background-position: 0 40px;
   padding-bottom: 70px;
