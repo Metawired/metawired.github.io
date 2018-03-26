@@ -394,7 +394,11 @@ dt {
 .footer {
   background: #32383e;
   color: #fff;
-  padding: 10px 0;
+  left:0px;
+  bottom:0px;
+  height:25px;
+  width:100%;
+  position:fixed;
 }
 .footer .copyright {
   line-height: 1.6;
